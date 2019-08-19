@@ -1,0 +1,15 @@
+.complementos{
+	display: flex;
+	
+}
+.papas{
+	margin-right: 50px;
+}
+.paquetes{
+	display: flex;
+}
+.carrito{
+	display: flex;
+	border: solid 10px;
+
+}
